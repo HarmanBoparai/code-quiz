@@ -20,6 +20,8 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Usage
 
+https://harmanboparai.github.io/code-quiz/
+
 ![start page code quiz](https://user-images.githubusercontent.com/112586779/197098833-a2619ad2-1e62-4f00-91d6-d2f4fd21270b.png)
 ![after quiz starts](https://user-images.githubusercontent.com/112586779/197098852-554d7616-d07b-4078-a0ff-63c190e5a337.png)
 ![scorespage](https://user-images.githubusercontent.com/112586779/197098971-9664e715-ef63-411d-944e-eec23453367b.png)
